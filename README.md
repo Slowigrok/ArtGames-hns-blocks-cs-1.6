@@ -104,20 +104,20 @@ Chance Large Points — шанс получения двойных поинто�
 Extra Jokes Chance — шанс на увеличение времени невидимости/неуязвимости/ускорения и т.п. на блоках
 Extra Jokes Time — количество времени, на которое они увеличиваются
 
-#### Список ножей (as is)
-Swap Knife +
-Ninja Knife +
-Fast Blade +
-Flash Blade +
-Poison Sting +
-Push Blade _в процессе_
-Titan Blade *не готово*
-Fire Knife *не готово*
-Frost Knife _в процессе_
-Thunder Knife +
-Vampire Blade *не готово*
-Reflect Blade *не готово*
-Standart Knife 
+#### Список ножей
+Swap Knife +<br>
+Ninja Knife +<br>
+Fast Blade +<br>
+Flash Blade +<br>
+Poison Sting +<br>
+Push Blade _в процессе_<br>
+Titan Blade *не готово*<br>
+Fire Knife *не готово*<br>
+Frost Knife _в процессе_<br>
+Thunder Knife +<br>
+Vampire Blade *не готово*<br>
+Reflect Blade *не готово*<br>
+Standart Knife <br>
 
 ### Серверные квары:
 agm_pnum (AGM, AGCM) — минимальное количество игроков, необходимое для того, чтобы игроки зарабатывали поинты<br>
