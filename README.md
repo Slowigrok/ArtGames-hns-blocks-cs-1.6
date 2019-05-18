@@ -81,7 +81,7 @@ agm_change_upgrade — изменяет прокачки у игроков
 1. Добавлено Knives меню.
 2. Добавлен ранговый VIP (по умолчанию меняется каждый месяц)
 
-#### Список прокачек (as is)
+#### Список прокачек
 Extra Health<br>
 Extra Armor<br>
 Respawn Chance<br>
